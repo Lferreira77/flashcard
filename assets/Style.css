@@ -1,1 +1,12 @@
+body{
+    background-color: bisque;
+    font-family: Bai Jamjuree;
+}
 
+footer {
+    background-color: preto;
+    color: branco;
+    position: fixo;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
